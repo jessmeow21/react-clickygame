@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-image: url('images/bg.jpg') !important;
+
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
