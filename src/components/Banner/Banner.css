@@ -1,0 +1,10 @@
+.jumbotron {
+    background: rgba(113, 187, 124, 0.5);
+    color: white;
+}
+
+  .title {
+      text-align: center;
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+  }
