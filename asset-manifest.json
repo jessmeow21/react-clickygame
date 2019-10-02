@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-clickygame/static/css/main.863a5107.chunk.css",
+    "main.js": "/react-clickygame/static/js/main.909ece40.chunk.js",
+    "main.js.map": "/react-clickygame/static/js/main.909ece40.chunk.js.map",
+    "runtime-main.js": "/react-clickygame/static/js/runtime-main.b364d93b.js",
+    "runtime-main.js.map": "/react-clickygame/static/js/runtime-main.b364d93b.js.map",
+    "static/js/2.ad8f64ec.chunk.js": "/react-clickygame/static/js/2.ad8f64ec.chunk.js",
+    "static/js/2.ad8f64ec.chunk.js.map": "/react-clickygame/static/js/2.ad8f64ec.chunk.js.map",
+    "index.html": "/react-clickygame/index.html",
+    "precache-manifest.ad748d4fbc6ab927b720826b1147786f.js": "/react-clickygame/precache-manifest.ad748d4fbc6ab927b720826b1147786f.js",
+    "service-worker.js": "/react-clickygame/service-worker.js",
+    "static/css/main.863a5107.chunk.css.map": "/react-clickygame/static/css/main.863a5107.chunk.css.map",
+    "static/media/beth.png": "/react-clickygame/static/media/beth.4d5e65a0.png",
+    "static/media/index.css": "/react-clickygame/static/media/bg.8eb2f8e5.jpg",
+    "static/media/birdperson.png": "/react-clickygame/static/media/birdperson.612ba8d4.png",
+    "static/media/evilmorty.png": "/react-clickygame/static/media/evilmorty.0657e1f4.png",
+    "static/media/gianthead.png": "/react-clickygame/static/media/gianthead.978b3847.png",
+    "static/media/goldenford.png": "/react-clickygame/static/media/goldenford.3774b39d.png",
+    "static/media/jerry.png": "/react-clickygame/static/media/jerry.af8e8a84.png",
+    "static/media/jessica.png": "/react-clickygame/static/media/jessica.a9644830.png",
+    "static/media/meeseeks.png": "/react-clickygame/static/media/meeseeks.9667b7ee.png",
+    "static/media/morty.png": "/react-clickygame/static/media/morty.244deeda.png",
+    "static/media/mr.png": "/react-clickygame/static/media/mr.d61b2d5b.png",
+    "static/media/rick.png": "/react-clickygame/static/media/rick.06b65841.png",
+    "static/media/summer.png": "/react-clickygame/static/media/summer.afdbb7bf.png"
+  }
+}
